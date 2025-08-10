@@ -42,7 +42,6 @@ public class Session1 {
 
 
 
-
     //Task2: Print the pattern below
     //*___
     //**__
