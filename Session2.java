@@ -1,4 +1,4 @@
-public class Session3 {
+public class Session2 {
     public static void main(String[] args) {
         //  *
         // * *
