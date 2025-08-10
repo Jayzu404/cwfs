@@ -6,6 +6,8 @@ public class Session2 {
         //hint: use nested loops
         //hint: outer loop for rows and inner for space and pattern (total loops use: 3)
         //hint: outer loop for rows, first inner loop for space, and 2nd inner loop for pattern printing
+
+        //(Shiel, Ladylyn, Ritchie)'s solution ft. Teejay
         for(int i = 1; i <= 3; i++){
             for(int j = i; j <= 2; j++){
                 System.out.print(" ");
