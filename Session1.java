@@ -9,6 +9,7 @@ public class Session1 {
     Scanner scan = new Scanner(System.in);
     System.out.print("Enter size: ");
     int size = scan.nextInt();
+    scan.close();
     int[] arr = new int[size];
 
     //initialize array
